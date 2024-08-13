@@ -5,7 +5,7 @@
 --- MOD_DESCRIPTION: Decks for modpack
 --- DISPLAY_NAME: Modpack Decks
 --- PREFIX: mpd
---- DEPENDENCIES: [Steamodded>=1.0.0-ALPHA]
+--- DEPENDENCIES: [Steamodded>=1.0.0~ALPHA-0812d]
 
 if SMODS.Atlas then
     SMODS.Atlas({
