@@ -7,6 +7,10 @@
 --- PREFIX: mpd
 --- DEPENDENCIES: [Steamodded>=1.0.0~ALPHA-0812d]
 
+if CardSleeves then
+    SMODS.load_file("CardSleeves.lua")()
+end
+
 if SMODS.Atlas then
     SMODS.Atlas({
       key = "modicon",
