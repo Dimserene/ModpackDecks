@@ -33,7 +33,7 @@ CardSleeves.Sleeve{
     unlocked = true  -- Sleeves are unlocked by default
 }
 
--- Grocery Sleeve (converted from Grocery Deck, using placeholder atlas)
+--[[ -- Grocery Sleeve (converted from Grocery Deck, using placeholder atlas)
 CardSleeves.Sleeve{
     key = "grocery_sleeve",  -- Naming convention
     name = "Grocery Sleeve",  -- Sleeve name
@@ -58,4 +58,4 @@ CardSleeves.Sleeve{
         }))
     end,
     unlocked = true  -- Sleeves are unlocked by default
-}
+} ]]

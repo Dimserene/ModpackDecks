@@ -54,7 +54,7 @@ SMODS.Atlas{
         atlas = "enhancers"
 
 
-    --- Grocery Deck
+--[[     --- Grocery Deck
 
         SMODS.Back{
             key = "b_grocery",
@@ -78,7 +78,7 @@ SMODS.Atlas{
             end,
             atlas = "enhancers"
         }
-        atlas = "enhancers"
+        atlas = "enhancers" ]]
 return
 
 ----------------------------------------------
